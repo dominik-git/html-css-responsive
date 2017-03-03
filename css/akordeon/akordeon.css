@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+
+.jokes{
+    width: 20%;
+    display: inline-block;
+}
+.jokes dd{
+    margin: 0;
+    background: cornflowerblue;
+
+
+}
+
+.jokes dt{
+    background: palegreen;
+    height: 35px;
+}
+
+.copy{
+    width: 400px;
+    height: 100px;
+    border: 1px dashed black;
+    display: block;
+    margin: 0 auto;
+}
